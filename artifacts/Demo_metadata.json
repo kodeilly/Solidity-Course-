@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "inc",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myVal",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity lesson 2.sol": "Demo"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity lesson 2.sol": {
+			"keccak256": "0xdd638a8362c84fbc4d54d2dc928cda96367d70466f97b28c44028be20bf2aab5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4ad9ae3b75798fbd76aec322996e4a24667e561a012aa1eca43c3c2e16464fc1",
+				"dweb:/ipfs/QmSt4xdscuiuvgJxe63gPNUGrELL2kKLekXwyo7U8Mg8pC"
+			]
+		}
+	},
+	"version": 1
+}
